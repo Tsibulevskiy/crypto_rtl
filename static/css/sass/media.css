@@ -48,7 +48,7 @@
     height: 383px;
     margin: 60px auto 0;
     padding-top: 140px;
-    background: url(../../img/circle.png);
+    background: url(../../img/Oval1.png) center no-repeat;
   }
 
   .ecosystem-circle img {
@@ -72,156 +72,124 @@
   .gradient-wrapper_header {
     height: 900px;
   }
-
   header {
     margin-top: 16px;
     margin-bottom: 60px;
   }
-
   .logo {
     font-size: 36px;
   }
-
   nav {
     text-align: left;
     margin-top: 10px;
     margin-right: 0;
   }
-
   nav a {
     font-size: 18px;
   }
-
   nav li:nth-of-type(n+2) {
     margin-left: 20px;
   }
-
   .sign-up {
     margin-top: 5px;
   }
-
   .sign-up button {
     width: 94px;
     height: 33px;
     font-size: 18px;
   }
-
   .ico-start p {
     font-size: 36px;
     margin-bottom: 5px;
   }
-
   .ico-start span {
     font-size: 24px;
   }
-
   .ico-duration p {
     font-size: 18px;
   }
-
   .ico-duration span {
     font-size: 16px;
   }
-
   .remaining-time span {
     font-size: 32px;
   }
-
   .remaining-time b {
     font-size: 32px;
   }
-
   .download-app p {
     font-size: 20px;
   }
-
   .download-app span {
     font-size: 32px;
   }
-
   .download-app img {
     width: 146px;
     height: 51px;
   }
-
   .problem {
     /*width: 100vw;*/
     /*margin-left: calc(-50vw + 50%);*/
     padding: 60px 20px 40px;
   }
-
   .problem-title {
     margin-bottom: 55px;
   }
-
   .problem-title h2 {
     font-size: 36px;
   }
-
   .problem-title p {
     line-height: 1.5;
   }
-
   .problem-deskription hr {
     margin-bottom: 24px;
   }
-
   .problem-deskription p {
     font-size: 16px;
     font-family: "Avenir-Regular";
     line-height: 24px;
   }
-
   .solution {
     width: 100vw;
     margin-left: calc(-50vw + 50%);
     margin-top: 300px;
     padding: 60px 20px 40px;
   }
-
   .solution-title {
     margin-bottom: 55px;
   }
-
   .solution-title h2 {
     font-size: 36px;
   }
-
   .solution-title p {
     line-height: 1.5;
   }
-
   .solution-deskription hr {
     margin-bottom: 24px;
   }
-
   .solution-deskription p {
     font-size: 16px;
     font-family: "Avenir-Regular";
     line-height: 24px;
   }
-
   .gradient-wrapper_sign {
     padding: 0;
     margin-top: 0;
+    background: rgba(45, 45, 45, 1) ;
   }
-
   .exclusive-invite {
     margin-top: 30px;
     margin-left: 0;
     text-align: center;
   }
-
   .exclusive-invite h4 {
     font-size: 36px;
   }
-
   .exclusive-invite span {
     font-size: 24px;
   }
-
   .exclusive-invite p {
-    max-width: 507px;
+    /*max-width: 507px;*/
     margin: 0 auto;
     font-size: 16px;
     color: #fff;
@@ -230,89 +198,70 @@
   .create-account {
     margin: 36px auto;
   }
-
   .ecosystem {
     margin-top: 43px;
   }
-
   .ecosystem-title {
     margin-bottom: 50px;
   }
-
   .ecosystem-deskription_right p {
     margin-top: 0;
   }
-
   .ecosystem-deskription_right:nth-of-type(n+3) p {
     margin-top: 10px;
   }
-
   .ecosystem-deskription_right:nth-of-type(n+3) img {
-    margin-right: 50px;
+    /*margin-right: 50px;*/
   }
-
   .tablet {
     display: block;
   }
-
   .desktop {
     display: none;
   }
-
   .reasons {
     margin-top: 60px;
     margin-bottom: 36px;
   }
 
   .reasons-title h4 {
+    text-align: right;
     font-size: 36px;
     margin-bottom: 113px;
   }
-
   .reasons-title p {
     margin-top: 87px;
   }
-
   .benefit {
     margin-top: 54px;
   }
-
   .benefit-title {
     margin-bottom: 53px;
   }
-
   .benefit-title h3 {
     font-size: 36px;
   }
-
   .check-line {
     margin-top: 60px;
   }
-
   .check-line li {
     margin-left: 120px;
   }
-
   .check-line p {
     margin-bottom: 54px;
   }
-
   .calculator {
     margin-top: 65px;
   }
-
   .calculator-title h3 {
     font-size: 36px;
   }
-
   .calculator-form {
     margin-top: 58px;
   }
-
   .calculator-form__invest, .calculator-form__term {
     position: relative;
   }
-
   .calculator-form__invest label, .calculator-form__term label {
     display: block;
     position: absolute;
@@ -321,144 +270,113 @@
     max-width: 100%;
     margin-bottom: 100px;
   }
-
   .calculator-result {
     margin: 0 auto;
   }
-
   .calculator-result button {
     display: block;
     margin: 48px auto 71px;
   }
-
   .invest-slider {
     margin-top: 100px;
     margin-left: 20px;
   }
-
   .term-slider {
     margin-top: 100px;
     margin-left: 20px;
   }
-
   .gradient-wrapper_roadmap {
     height: auto;
     background-image: none;
     background-color: #2f3367;
     padding-bottom: 90px;
   }
-
   .roadmap-month {
     max-width: 300px;
     margin-left: 0;
   }
-
   .roadmap-month p {
     font-size: 16px;
   }
-
   .roadmap-month h6 {
     margin-bottom: 10px;
   }
-
   .july, .september, .november {
     max-width: 286px;
     margin-left: auto;
   }
-
   .june:after {
     right: -85px;
   }
-
   .july {
     margin-top: 40px;
   }
-
   .july h6 {
     margin-bottom: 20px;
   }
-
   .august {
     margin-top: 40px;
   }
-
   .august:after {
     right: -85px;
   }
-
   .september {
     margin-top: 40px;
   }
-
   .october {
     margin-top: 40px;
   }
-
   .october:after {
     right: -85px;
   }
-
   .november {
     margin-top: 40px;
   }
-
   .november:after {
     left: -70px;
   }
-
   .forget-download {
     width: 100vw;
     margin-left: calc(-50vw + 50%);
     margin-top: 0;
   }
-
   .forget-download_photo img {
     max-width: 100%;
     margin-bottom: 0;
   }
-
   .forget-download_description {
     margin-top: 54px;
     text-align: center;
   }
-
   .forget-download_description p {
     max-width: 100%;
   }
-
   .forget-download_description a {
     margin-bottom: 54px;
   }
-
   .meet-taem_title {
     margin-top: 50px;
     margin-bottom: 48px;
   }
-
   .meet-taem_title h5 {
     font-size: 32px;
   }
-
   .human-description {
     max-width: 184px;
   }
-
   .human-description .photo-block {
     width: 99px;
     height: 98px;
     margin-bottom: 7px;
   }
-
   .human-description .name {
     font-size: 24px;
     color: #00226c;
     margin-bottom: 10px;
   }
-
   .human-description span {
     font-size: 18px;
   }
-
   .human-description p {
     font-size: 16px;
     line-height: 1.2;
@@ -466,24 +384,19 @@
     max-height: 100px;
     overflow-y: hidden;
   }
-
   footer {
     margin-top: 100px;
   }
-
   footer .footer-logo {
     text-align: center;
     margin-bottom: 30px;
   }
-
   footer .footer-nav {
     text-align: center;
   }
-
   footer .footer-nav li {
     font-size: 20px;
   }
-
   footer .social-links {
     max-width: 120px;
     margin: 50px auto 0;
@@ -505,7 +418,9 @@
   .gradient-wrapper_navbar {
     background: linear-gradient(225deg, #373737 0%, #333333 100%);
   }
-
+  .mob-padding {
+    padding-top: 20px;
+  }
   .gradient-wrapper_header {
     height: 1200px;
   }
@@ -532,7 +447,7 @@
   }
 
   .mob-menu {
-    padding-top: 30px;
+    /*padding-top: 30px;*/
     display: inline-block;
     position: absolute;
     right: 0;
@@ -633,9 +548,11 @@
     margin: 0 auto;
   }
   .solution {
-    margin-top: 700px;
+    margin-top: 100px;
   }
-
+  .solution-title {
+    padding-right: 50px;
+  }
   .solution-deskription {
     margin: 0 auto;
     max-width: 300px;
@@ -701,6 +618,12 @@
 
   footer .footer-nav li:nth-of-type(n+2) {
     margin-left: 20px;
+  }
+  .hidden {
+    display: none;
+  }
+  footer .footer-logo img {
+    display: inline-block;
   }
 }
 
@@ -781,7 +704,7 @@
     width: 238px;
     height: 240px;
     padding-top: 80px;
-    background: url(../../img/circle-mob.png);
+    background: url(../../img/oval1.png) center no-repeat ;
   }
 
   .ecosystem-circle img {
@@ -802,7 +725,7 @@
   }
 
   .ecosystem-deskription_right:nth-of-type(3) img {
-    margin-right: 30px;
+    /*margin-right: 30px;*/
   }
 
   .padding-fix {
@@ -821,7 +744,7 @@
     width: 236px;
     height: 191px;
     margin: 0 10px 0 auto;
-    background: #2f3367 url(../../img/oval-mob.png) no-repeat center;
+    background: #323232 url(../../img/oval-mob.png) no-repeat center;
   }
 
   .reasons-indicators_index {

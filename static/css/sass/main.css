@@ -2,7 +2,10 @@ body {
   overflow-x: hidden;
   min-width: 380px;
 }
-
+img{
+  max-width: 100%;
+  height: auto;
+}
 .gradient-wrapper_header {
   width: 100%;
   height: 1150px;
@@ -45,8 +48,13 @@ nav a {
   font-family: "Avenir-Regular";
   font-size: 24px;
   color: #fff;
-}
+  transition: 0.4s ease;
 
+}
+.desktop-mob nav a:hover {
+  color: #F7C528;
+  text-decoration: none;
+}
 .sign-up button {
   width: 166px;
   height: 58px;
@@ -56,6 +64,11 @@ nav a {
   font-family: "Avenir-Medium";
   font-size: 24px;
   color: #edbd2f;
+  transition: 0.4s ease;
+}
+.sign-up button:hover {
+  color: #1f1f1f;
+  background-color: #edbd2f;
 }
 
 .ico-title {
@@ -414,11 +427,7 @@ input::placeholder {
   line-height: 1.5;
 }
 
-.exclusive-invite img {
-  /*max-width: 100%;*/
-  position: relative;
-  left: -180px;
-}
+
 
 .ecosystem {
   margin-top: 113px;
@@ -1232,8 +1241,11 @@ footer .footer-nav li {
 footer .footer-nav li a {
   color: #FFFFFF;
   text-decoration: none;
+  transition: 0.4s ease;
 }
-
+footer .footer-nav li a:hover {
+  color: #F6BD21;
+}
 footer .footer-nav li:nth-of-type(n+2) {
   margin-left: 40px;
 }
