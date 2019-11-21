@@ -9,6 +9,7 @@ img{
 .gradient-wrapper_header {
   width: 100%;
   height: 1150px;
+  background: -o-linear-gradient(225deg, #373737 0%, #333333 100%);
   background: linear-gradient(225deg, #373737 0%, #333333 100%);
 }
 
@@ -18,8 +19,8 @@ img{
 }
 
 header {
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   margin-bottom: 60px;
 }
 
@@ -33,7 +34,7 @@ header {
 nav {
   margin-top: 20px;
   margin-right: 20px;
-  text-align: left;
+  text-align: center;
 }
 
 nav li {
@@ -48,6 +49,8 @@ nav a {
   font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #fff;
+  -webkit-transition: 0.4s ease;
+  -o-transition: 0.4s ease;
   transition: 0.4s ease;
 
 }
@@ -64,6 +67,8 @@ nav a {
   font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #edbd2f;
+  -webkit-transition: 0.4s ease;
+  -o-transition: 0.4s ease;
   transition: 0.4s ease;
 }
 .sign-up button:hover {
@@ -79,7 +84,9 @@ nav a {
   color: #A6A6A6;
   text-align: end;
 }
-
+.ico-title h2 {
+  font-size: 32px;
+}
 .ico-start {
   /*max-width: 269px;*/
   /*float: left;*/
@@ -88,12 +95,12 @@ nav a {
 }
 
 .ico-start p {
-  font-size: 40px;
+  font-size: 32px;
   color: #fff;
 }
 
 .ico-start span {
-  font-size: 20px;
+  font-size: 16px;
   color: #edbd2f;
 }
 
@@ -109,7 +116,7 @@ nav a {
 .ico-duration p {
   margin-bottom: 10px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   color: #fff;
 }
 
@@ -126,7 +133,7 @@ nav a {
 
 .remaining-time span {
   font-family: 'El Messiri', sans-serif;
-  font-size: 40px;
+  font-size: 32px;
   color: #fff;
 }
 
@@ -139,7 +146,7 @@ nav a {
 
 .remaining-time p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   color: #fff;
 }
 
@@ -154,7 +161,7 @@ nav a {
   font-family: 'El Messiri', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 31px;
   color: #FDFDFD;
 }
@@ -163,7 +170,7 @@ nav a {
   font-family: 'El Messiri', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 48px;
+  font-size: 32px;
   line-height: 75px;
   color: #F7C528;
 }
@@ -193,7 +200,7 @@ nav a {
 .problem {
   margin-top: 30px;
   width: 100%;
-  padding: 130px 70px 105px;
+  padding: 80px 70px 65px;
   border-radius: 10px;
   background-color: #fff;
   -webkit-box-shadow: 0 2px 30px rgba(0, 0, 0, 0.25);
@@ -208,7 +215,7 @@ nav a {
 
 .problem-title h2 {
   font-family: 'El Messiri', sans-serif;
-  font-size: 48px;
+  font-size: 32px;
   margin-bottom: 30px;
   position: relative;
 }
@@ -225,7 +232,7 @@ nav a {
 
 .problem-title p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
@@ -256,14 +263,14 @@ nav a {
 
 .problem-deskription p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.2;
 }
 
 .solution {
   margin-top: 100px;
   width: 100%;
-  padding: 80px;
+  padding: 80px 80px 10px;
   border-radius: 10px;
   background-color: #fff;
   -webkit-box-shadow: 0 2px 30px rgba(0, 0, 0, 0.25);
@@ -275,7 +282,7 @@ nav a {
 }
 
 .solution-image img {
-  padding-top: 30px;
+  padding-top: 68px;
   max-width: none;
 }
 
@@ -284,7 +291,7 @@ nav a {
   font-family: 'El Messiri', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 30px;
+  font-size: 32px;
   line-height: 47px;
   color: #454545;
 
@@ -317,35 +324,42 @@ nav a {
   background: rgba(45, 45, 45, 1) url("../../img/img2.png") no-repeat right 55%;
 
   margin-top: 110px;
-  padding: 130px 0;
+  padding: 80px 0;
 }
 
 input::-webkit-input-placeholder {
   color: #7D7D7D;
   padding-right: 20px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 input:-ms-input-placeholder {
   color: #7D7D7D;
   padding-right: 20px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 input::-ms-input-placeholder {
   color: #7D7D7D;
   padding-right: 20px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
+}
+
+input::-moz-placeholder {
+  color: #7D7D7D;
+  padding-right: 20px;
+  font-family: 'El Messiri', sans-serif;
+  font-size: 16px;
 }
 
 input::placeholder {
   color: #7D7D7D;
   padding-right: 20px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .create-account {
@@ -357,6 +371,7 @@ input::placeholder {
   border-radius: 16px;
   -webkit-box-shadow: 0 2px 25px rgba(0, 0, 0, 0.15);
   box-shadow: 0 2px 25px rgba(0, 0, 0, 0.15);
+  background-image: -o-linear-gradient(218.69deg, #494949 0%, #323232 100%);
   background-image: linear-gradient(231.31deg, #494949 0%, #323232 100%);
 }
 
@@ -373,7 +388,7 @@ input::placeholder {
   padding-right: 20px;
   margin-bottom: 17px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   text-transform: uppercase;
   color: #ffffff;
 }
@@ -387,10 +402,12 @@ input::placeholder {
   height: 51px;
   padding-left: 20px;
   border-radius: 26px;
+  background: -webkit-gradient(linear, left top, right top, color-stop(-23.76%, #2B2B2B), to(#383838));
+  background: -o-linear-gradient(left, #2B2B2B -23.76%, #383838 100%);
   background: linear-gradient(90deg, #2B2B2B -23.76%, #383838 100%);;
   caret-color: #7D7D7D;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #7D7D7D;
 }
 
@@ -399,6 +416,7 @@ input::placeholder {
   width: 166px;
   height: 58px;
   border: none;
+  background: -o-linear-gradient(250.74deg, #FDC426 0%, #DBA610 100%), #222222;
   background: linear-gradient(199.26deg, #FDC426 0%, #DBA610 100%), #222222;
   margin: 66px auto 0;
   padding: 0;
@@ -414,7 +432,7 @@ input::placeholder {
 
 .exclusive-invite h4,
 .exclusive-invite h3 {
-  font-size: 30px;
+  font-size: 32px;
   line-height: 47px;
 }
 
@@ -432,7 +450,7 @@ input::placeholder {
 
 
 .ecosystem {
-  margin-top: 113px;
+  margin-top: 80px;
 }
 
 .ecosystem-block {
@@ -450,12 +468,16 @@ input::placeholder {
 
 .ecosystem-title h3 {
   font-family: 'El Messiri', sans-serif;
-  font-size: 48px;
+  font-size: 32px;
   color: #4a4a4a;
 }
 
 .ecosystem-deskription {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
   justify-content: flex-end;
   width: 263px;
   height: 81px;
@@ -472,7 +494,7 @@ input::placeholder {
 .ecosystem-deskription span {
   margin-top: 6px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #4a4a4a;
 }
 
@@ -481,7 +503,11 @@ input::placeholder {
 }
 
 .ecosystem-deskription_right {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
   justify-content: flex-end;
   width: 263px;
   height: 81px;
@@ -498,7 +524,7 @@ input::placeholder {
 .ecosystem-deskription_right span {
   margin-top: 6px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #4a4a4a;
 }
 
@@ -522,9 +548,9 @@ input::placeholder {
 }
 
 .reasons {
-  margin-top: 100px;
+  margin-top: 80px;
   padding-top: 100px;
-  margin-bottom: 180px;
+  margin-bottom: 110px;
 }
 
 .reasons-indicators {
@@ -535,7 +561,7 @@ input::placeholder {
   -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
-  background: #323232 url(../../img/oval-mob.png) no-repeat center;
+  background: #323232 url(../../img/circle.png) center no-repeat ;
   text-align: center;
 }
 
@@ -557,7 +583,7 @@ input::placeholder {
 
 .reasons-indicators_index p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 3px;
 }
 
@@ -572,7 +598,7 @@ input::placeholder {
 
 .reasons-indicators_benefits p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 3px;
 }
 
@@ -588,7 +614,7 @@ input::placeholder {
 
 .reasons-indicators_savings p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 3px;
 }
 
@@ -610,7 +636,7 @@ input::placeholder {
 
 .reasons-indicators_customers p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 5px;
 }
 
@@ -632,7 +658,7 @@ input::placeholder {
 
 .reasons-indicators_businesses p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 5px;
 }
 
@@ -643,7 +669,7 @@ input::placeholder {
 
 .reasons-title h4 {
   font-family: 'El Messiri', sans-serif;
-  font-size: 48px;
+  font-size: 32px;
   position: relative;
   margin-bottom: 45px;
 }
@@ -660,12 +686,14 @@ input::placeholder {
 
 .reasons-title p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 32px;
 }
 
 .gradient-wrapper_get {
   width: 100%;
+  background: -webkit-gradient(linear, left bottom, left top, from(#2D2D2D), to(#2D2D2D));
+  background: -o-linear-gradient(bottom, #2D2D2D, #2D2D2D);
   background: linear-gradient(0deg, #2D2D2D, #2D2D2D);
 }
 
@@ -676,12 +704,12 @@ input::placeholder {
 
 .benefit-title {
   text-align: center;
-  margin-bottom: 105px;
+  margin-bottom: 50px;
 }
 
 .benefit-title h3 {
   font-family: 'El Messiri', sans-serif;
-  font-size: 48px;
+  font-size: 32px;
   color: #fff;
 }
 
@@ -738,13 +766,13 @@ input::placeholder {
 
 .check-line li span {
   position: absolute;
-  left: -55px;
+  left: -67px;
   bottom: -50px;
   display: block;
   width: 158px;
   text-align: center;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   text-transform: uppercase;
   color: #fff;
 }
@@ -753,13 +781,13 @@ input::placeholder {
   margin-top: 140px;
   margin-bottom: 113px;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.4;
   color: #fff;
 }
 
 .fix-text {
-  left: -25px !important;
+  /*left: -25px !important;*/
 }
 
 .ui-tabs-active {
@@ -771,13 +799,13 @@ input::placeholder {
 }
 
 .calculator {
-  margin-top: 130px;
+  margin-top: 90px;
 }
 
 .calculator-title h3 {
   position: relative;
   font-family: 'El Messiri', sans-serif;
-  font-size: 48px;
+  font-size: 32px;
   color: #4a4a4a;
   padding-left: 60px;
 }
@@ -824,7 +852,7 @@ input::placeholder {
 }
 
 .calculator-form {
-  margin-top: 100px;
+  margin-top: 29px;
 }
 
 .calculator-form__plug {
@@ -836,6 +864,7 @@ input::placeholder {
 .calculator-form__plug input {
   position: relative;
   -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
   transform: translateX(-50%);
   bottom: 30px;
   margin-left: 3px;
@@ -853,6 +882,7 @@ input::placeholder {
   width: 100%;
   left: 50%;
   -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
   transform: translateX(-50%);
   height: 10px;
 }
@@ -876,6 +906,7 @@ input::placeholder {
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
   transform: translateX(-50%);
   white-space: nowrap;
   font-family: 'El Messiri', sans-serif;
@@ -909,7 +940,7 @@ input::placeholder {
   border-radius: 5px;
   border: 1px solid #F6BD21;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #F6BD21;
 }
 
@@ -944,7 +975,7 @@ input::placeholder {
   border-radius: 5px;
   border: 1px solid #F6BD21;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #F6BD21;
 }
 
@@ -980,13 +1011,13 @@ input::placeholder {
 }
 
 .calculator-form__slider.noUi-horizontal .noUi-tooltip {
-  width: 93px;
+  width: 75px;
   height: 32px;
   text-align: center;
   border-radius: 5px;
   border: 1px solid #F6BD21;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #F6BD21;
 }
 
@@ -1014,19 +1045,19 @@ input::placeholder {
 
 .gradient-wrapper_roadmap {
   width: 100%;
-  height: 1830px;
+  height: 1610px;
   background: #2D2D2D;
 }
 
 .roadmap-title {
   text-align: center;
-  margin-top: 115px;
-  margin-bottom: 100px;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .roadmap-title h4 {
   font-family: 'El Messiri', sans-serif;
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 700;
   letter-spacing: 2px;
   color: #fff;
@@ -1045,8 +1076,9 @@ input::placeholder {
 }
 
 .roadmap-month p {
+  text-align: center;
   font-family: 'El Messiri', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: rgba(255, 255, 255, 0.5);
   line-height: 1.4;
 }
@@ -1079,7 +1111,7 @@ input::placeholder {
 }
 
 .july h6 {
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
 }
 
 .july:after {
@@ -1173,7 +1205,7 @@ input::placeholder {
 
 .forget-download {
   width: 100%;
-  margin-top: -280px;
+  margin-top: -260px;
   -webkit-box-shadow: 0 2px 30px rgba(0, 0, 0, 0.25);
   box-shadow: 0 2px 30px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
@@ -1189,25 +1221,25 @@ input::placeholder {
 }
 
 .forget-download_description {
-  margin-top: 60px;
+  margin-top: 120px;
   padding-left: 45px;
   font-family: 'El Messiri', sans-serif;
 }
 .forget-download_description h4 {
-  font-size: 48px;
+  font-size: 32px;
 }
 .forget-download_description h5 {
   margin-bottom: 30px;
-  font-size: 48px;
+  font-size: 32px;
   color: #F6BD21;
 }
 
 .forget-download_description p {
   max-width: 553px;
-  margin-bottom: 34px;
+  margin-bottom: 16px;
   /*color: #fff;*/
   font-family: 'El Messiri', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.4;
 }
 
@@ -1239,6 +1271,8 @@ footer .footer-nav li {
 footer .footer-nav li a {
   color: #FFFFFF;
   text-decoration: none;
+  -webkit-transition: 0.4s ease;
+  -o-transition: 0.4s ease;
   transition: 0.4s ease;
 }
 footer .footer-nav li a:hover {

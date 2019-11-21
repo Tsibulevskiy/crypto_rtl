@@ -1,4 +1,12 @@
+@media (max-width: 1300px) {
+  .gradient-wrapper_sign {
+    background: rgba(45, 45, 45, 1) url(../../img/img2.png) no-repeat 140% 55%;
+  }
+}
 @media (max-width: 1199px) {
+  .gradient-wrapper_sign {
+    background: rgba(45, 45, 45, 1) url(../../img/img2.png) no-repeat 170% 55%;
+  }
   .ico-start {
     float: none;
   }
@@ -23,8 +31,8 @@
   }
 
   .ecosystem-block_right {
-    width: 735px;
-    margin: 77px auto 0;
+    width: 593px;
+    margin: 0 auto;
   }
 
   .ecosystem-deskription, .ecosystem-deskription_right {
@@ -407,6 +415,39 @@
   .solution {
     margin-top: 336px;
   }
+  .padding-mob h2,
+  .download-app h5,
+  .download-app h2,
+  .problem-title h2,
+  .problem-deskription h6,
+  .solution-title h3,
+  .solution-title h5,
+  .exclusive-invite h4,
+  .exclusive-invite h3,
+  .ecosystem-title h3,
+  .reasons .reasons-title h4,
+  .benefit .benefit-title h3,
+  .calculator .calculator-title h3,
+  .calculator-result p,
+  .roadmap-title h4,
+  .roadmap-month h6{
+    font-size: 22px;
+  }
+  .ico-start p {
+    font-size: 16px;
+  }
+  .download-app h2,
+  .ecosystem-deskription span,
+  .ecosystem-deskription_right span,
+  .reasons-indicators_index p,
+  .reasons-indicators_benefits p,
+  .reasons-indicators_savings p,
+  .reasons-indicators_businesses p,
+  .reasons-title p,
+  .calculator-form__invest label,
+  .calculator-form__term label{
+    font-size: 16px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -414,11 +455,18 @@
     margin: 0;
     padding: 0;
   }
+  .mob-nav_logo img {
+    display: inline-block;
+  }
   .solution-image img {
     padding-top: 30px;
     max-width: 100%;
   }
+  .solution-title h3, .solution-title h5 {
+    line-height: 25px;
+  }
   .gradient-wrapper_navbar {
+    background: -o-linear-gradient(225deg, #373737 0%, #333333 100%);
     background: linear-gradient(225deg, #373737 0%, #333333 100%);
   }
   .mob-padding {
@@ -593,7 +641,8 @@
   }
 
   .ecosystem-block_right {
-    width: 288px;
+    width: 263px;
+    margin: 0 auto;
   }
 
   .check-line li {
@@ -776,9 +825,9 @@
     margin-top: 20px;
     background: url(../../img/oval1.png) center no-repeat ;
   }
-.ecosystem-block_right {
-  margin-top:  10px;
-}
+  .ecosystem-block_right {
+    margin-top:  10px;
+  }
   .ecosystem-circle img {
     max-width: 41px;
     margin-bottom: 10px;
@@ -807,9 +856,9 @@
   .padding-fix {
     padding: 0;
   }
-.reasons {
-  padding-top: 0 !important;
-}
+  .reasons {
+    padding-top: 0 !important;
+  }
   .reasons-title {
     margin-top: 0;
   }
@@ -822,10 +871,10 @@
   }
 
   .reasons-indicators {
-    width: 236px;
-    height: 191px;
+    width: 270px;
+    height: 220px;
     margin: 0 10px 0 auto;
-    background: #323232 url(../../img/oval-mob.png) no-repeat center;
+    background: #323232 url(../../img/circle-mob.png) no-repeat center;
   }
   .reasons-indicators_index,
   .reasons-indicators_customers,
@@ -850,7 +899,7 @@
     width: 100px;
     height: 100px;
     left: -40px;
-    bottom: -60px;
+    bottom: -42px;
     padding-top: 23px;
   }
 
@@ -862,7 +911,7 @@
     margin: 23px auto 35px;
   }
   .reasons-indicators_savings {
-    margin-top: 56px;
+    margin-top: 85px;
     margin-right: 10px;
   }
 
@@ -913,6 +962,11 @@
   }
   .calculator-title h3 {
     font-size: 32px;
+    text-align: right !important;
+  }
+  .calculator-title h3:after {
+    left: 83%;
+
   }
 
   .calculator-result {
