@@ -146,7 +146,7 @@
   }
   .problem-deskription p {
     font-size: 16px;
-    font-family: "Avenir-Regular";
+    font-family: 'El Messiri', sans-serif;
     line-height: 24px;
   }
   .solution {
@@ -169,7 +169,7 @@
   }
   .solution-deskription p {
     font-size: 16px;
-    font-family: "Avenir-Regular";
+    font-family: 'El Messiri', sans-serif;
     line-height: 24px;
   }
   .gradient-wrapper_sign {
@@ -414,7 +414,10 @@
     margin: 0;
     padding: 0;
   }
-
+  .solution-image img {
+    padding-top: 30px;
+    max-width: 100%;
+  }
   .gradient-wrapper_navbar {
     background: linear-gradient(225deg, #373737 0%, #333333 100%);
   }
@@ -438,7 +441,7 @@
   }
 
   .logo-mob {
-    max-width: 60px;
+    max-width: 100px;
     display: inline-block;
     font-family: "Avenir-Medium";
     font-size: 24px;
@@ -493,7 +496,7 @@
 
   .mob-nav a {
     font-size: 26px;
-    font-family: "Avenir-Regular";
+    font-family: 'El Messiri', sans-serif;
     color: #fff;
   }
 
@@ -522,7 +525,7 @@
   }
 
   .phone-img {
-    margin-top: 16px;
+    margin-top: 26px;
   }
 
   .download-app {
@@ -579,9 +582,10 @@
     margin-top: 36px;
   }
 
-  .ecosystem-deskription_right {
+  .ecosystem-deskription_right,
+  .ecosystem-deskription {
     width: 288px;
-    height: 90px;
+    height: 70px;
   }
 
   .ecosystem-deskription_right img {
@@ -593,7 +597,7 @@
   }
 
   .check-line li {
-    margin-left: 40px;
+    margin-left: 30px;
   }
 
   .june:after, .july:after, .august:after, .september:after, .october:after, .november:after {
@@ -613,7 +617,7 @@
   }
 
   .forget-download_description {
-    padding: 0 20px;
+    padding: 32px 20px 0 20px;
   }
 
   footer .footer-nav li:nth-of-type(n+2) {
@@ -629,9 +633,64 @@
 
 @media (max-width: 575px) {
   .mob-menu {
-    right: 20px;
+    right: -5px;
+    top:30px;
   }
-
+  .padding-mob {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .exclusive-invite h4, .exclusive-invite h3 {
+    line-height: 35px;
+  }
+  .exclusive-invite h4 {
+    margin-bottom: 15px;
+  }
+  .padding-mob h2,
+  .download-app h5,
+  .problem-title h2,
+  .problem-deskription h6,
+  .solution-title h3,
+  .solution-title h5,
+  .exclusive-invite h4,
+  .exclusive-invite h3,
+  .ecosystem-title h3,
+  .reasons .reasons-title h4,
+  .benefit .benefit-title h3,
+  .calculator .calculator-title h3,
+  .calculator-result p,
+  .roadmap-title h4,
+  .roadmap-month h6{
+    font-size: 22px;
+  }
+  .ico-start p {
+    font-size: 16px;
+  }
+  .download-app h2,
+  .ecosystem-deskription span,
+  .ecosystem-deskription_right span,
+  .reasons-indicators_index p,
+  .reasons-indicators_benefits p,
+  .reasons-indicators_savings p,
+  .reasons-indicators_businesses p,
+  .reasons-title p,
+  .calculator-form__invest label,
+  .calculator-form__term label{
+    font-size: 16px;
+  }
+  .download-app h5 ,
+  .download-app h2,
+  .download-app p {
+    margin: 0 !important;
+  }
+  .download-app h2 {
+    line-height: 30px;
+  }
+  .download-app p,
+  .download-app span {
+    font-size: 16px;
+    padding-bottom: 16px;
+  }
   header {
     margin-bottom: 20px;
   }
@@ -653,7 +712,15 @@
     margin-top: 70px;
     border-radius: 0;
   }
-
+  .problem-deskription h6 {
+    margin: 10px 0;
+  }
+  .problem-deskription hr {
+    margin-bottom: 10px;
+  }
+  .problem-deskription p {
+    margin: 0 !important;
+  }
   .problem .slick-arrow-left {
     left: 5px;
   }
@@ -670,7 +737,9 @@
     border-radius: 0;
     margin-top: 36px;
   }
-
+  .solution-title {
+    margin-bottom: 0 !important;
+  }
   .solution .slick-arrow-left {
     left: 5px;
   }
@@ -704,20 +773,27 @@
     width: 238px;
     height: 240px;
     padding-top: 80px;
+    margin-top: 20px;
     background: url(../../img/oval1.png) center no-repeat ;
   }
-
+.ecosystem-block_right {
+  margin-top:  10px;
+}
   .ecosystem-circle img {
     max-width: 41px;
     margin-bottom: 10px;
-  }
 
+  }
+  .ecosystem-deskription,
+  .ecosystem-deskription_right {
+    text-align: end;
+  }
   .ecosystem-deskription_right:nth-of-type(1) {
-    padding-top: 30px;
+    /*padding-top: 30px;*/
   }
 
   .ecosystem-deskription_right:nth-of-type(2) img {
-    margin-top: 10px;
+    /*margin-top: 10px;*/
   }
 
   .ecosystem-deskription_right:nth-of-type(n+3) {
@@ -731,7 +807,12 @@
   .padding-fix {
     padding: 0;
   }
-
+.reasons {
+  padding-top: 0 !important;
+}
+  .reasons-title {
+    margin-top: 0;
+  }
   .reasons-title p {
     margin-top: 140px;
   }
@@ -746,11 +827,17 @@
     margin: 0 10px 0 auto;
     background: #323232 url(../../img/oval-mob.png) no-repeat center;
   }
-
+  .reasons-indicators_index,
+  .reasons-indicators_customers,
+  .reasons-indicators_businesses,
+  .reasons-indicators_benefits,
+  .reasons-indicators_savings{
+    font-size: 18px;
+  }
   .reasons-indicators_index {
     top: -70px;
     right: 0;
-    padding-top: 25px;
+    padding-top: 23px;
   }
 
   .reasons-indicators_customers {
@@ -760,20 +847,22 @@
   }
 
   .reasons-indicators_businesses {
-    width: 126px;
-    height: 128px;
-    right: 0;
-    bottom: -100px;
-    padding-top: 40px;
+    width: 100px;
+    height: 100px;
+    left: -40px;
+    bottom: -60px;
+    padding-top: 23px;
   }
 
   .reasons-indicators_benefits {
     padding-top: 10px;
     margin: 0 0 0 10px;
   }
-
+  .calculator-result button {
+    margin: 23px auto 35px;
+  }
   .reasons-indicators_savings {
-    margin-top: 40px;
+    margin-top: 56px;
     margin-right: 10px;
   }
 
@@ -786,14 +875,15 @@
   }
 
   .check-line li:nth-of-type(n+2) {
-    margin-left: 100px;
+    margin-left: 80px;
   }
 
   .check-line li span {
     font-size: 14px;
-    max-width: 76px;
+    max-width: 60px;
     left: 0;
     bottom: -40px;
+    overflow: hidden;
   }
 
   .check-line p {
@@ -807,7 +897,20 @@
     bottom: -40px !important;
     left: 0px !important;
   }
-
+  .calculator-form {
+    margin-top: 0;
+  }
+  .calculator-form__term {
+    margin-top: 50px;
+    margin-bottom: 60px;
+  }
+  .calculator-form__invest label,
+  .calculator-form__term label {
+    top: 10px;
+  }
+  .calculator-form__term label {
+    margin-top: 0;
+  }
   .calculator-title h3 {
     font-size: 32px;
   }
@@ -834,13 +937,17 @@
   }
 
   .roadmap-title {
-    margin-bottom: 50px;
+    margin-top: 65px;
+    margin-bottom: 25px;
   }
 
-  .forget-download_description h4 {
-    font-size: 32px;
+  .forget-download_description h4,
+  .forget-download_description h5{
+    font-size: 22px;
   }
-
+  .forget-download_description {
+    padding: 50px 20px 0 20px;
+  }
   .forget-download_description span {
     font-size: 20px;
   }
@@ -859,7 +966,7 @@
   }
 
   .forget-download_photo img {
-    max-width: 164px;
+    max-width: 100% ;
   }
 
   .slick-arrow-left {

@@ -25,7 +25,7 @@ header {
 
 .logo {
   color: #ffffff;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 48px;
   font-weight: 700;
 }
@@ -45,7 +45,7 @@ nav li:nth-of-type(n+2) {
 }
 
 nav a {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #fff;
   transition: 0.4s ease;
@@ -61,7 +61,7 @@ nav a {
   border-radius: 29px;
   border: 1px solid #edbd2f;
   text-align: center;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #edbd2f;
   transition: 0.4s ease;
@@ -108,13 +108,13 @@ nav a {
 
 .ico-duration p {
   margin-bottom: 10px;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 20px;
   color: #fff;
 }
 
 .ico-duration span {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #edbd2f;
 }
@@ -125,20 +125,20 @@ nav a {
 }
 
 .remaining-time span {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 40px;
   color: #fff;
 }
 
 .remaining-time b {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   color: #f18484;
   font-size: 40px;
   letter-spacing: 5px;
 }
 
 .remaining-time p {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 20px;
   color: #fff;
 }
@@ -146,7 +146,7 @@ nav a {
 .download-app {
   text-align: end;
   /*margin-top: 40px;*/
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   color: #fff;
 }
 
@@ -207,7 +207,7 @@ nav a {
 }
 
 .problem-title h2 {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 48px;
   margin-bottom: 30px;
   position: relative;
@@ -224,7 +224,7 @@ nav a {
 }
 
 .problem-title p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   line-height: 1.5;
 }
@@ -242,7 +242,7 @@ nav a {
 }
 
 .problem-deskription h6 {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   margin: 24px 0 15px;
 }
@@ -255,7 +255,7 @@ nav a {
 }
 
 .problem-deskription p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   line-height: 1.2;
 }
@@ -302,6 +302,7 @@ nav a {
 .solution-title p {
   display: inline-block;
   padding-right: 20px;
+  font-family: 'El Messiri', sans-serif;
   font-size: 16px;
   line-height: 25px;
   color: #4A4A4A;
@@ -448,7 +449,7 @@ input::placeholder {
 }
 
 .ecosystem-title h3 {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 48px;
   color: #4a4a4a;
 }
@@ -458,7 +459,7 @@ input::placeholder {
   justify-content: flex-end;
   width: 263px;
   height: 81px;
-  padding: 22px 19px 23px 24px;
+  padding: 22px 30px 23px 24px;
   -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
 }
@@ -476,15 +477,15 @@ input::placeholder {
 }
 
 .ecosystem-deskription:nth-of-type(n+2) {
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 .ecosystem-deskription_right {
   display: flex;
   justify-content: flex-end;
-  width: 338px;
+  width: 263px;
   height: 81px;
-  padding: 22px 19px 23px 24px;
+  padding: 22px 30px 23px 24px;
   -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
 }
@@ -534,7 +535,7 @@ input::placeholder {
   -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
-  background: #323232 url(../../img/oval.png) no-repeat center;
+  background: #323232 url(../../img/oval-mob.png) no-repeat center;
   text-align: center;
 }
 
@@ -549,13 +550,13 @@ input::placeholder {
   border-radius: 5px;
   background-color: #F6BD21;
   padding-top: 19px;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #fff;
 }
 
 .reasons-indicators_index p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   margin-top: 3px;
 }
@@ -565,12 +566,12 @@ input::placeholder {
   padding-top: 52px;
   margin-left: 62px;
   color: #fff;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
 }
 
 .reasons-indicators_benefits p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   margin-top: 3px;
 }
@@ -581,12 +582,12 @@ input::placeholder {
   margin-left: auto;
   margin-right: 48px;
   color: #fff;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
 }
 
 .reasons-indicators_savings p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   margin-top: 3px;
 }
@@ -602,13 +603,13 @@ input::placeholder {
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.15);
   border-radius: 5px;
   background-color: #4d92f4;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #fff;
 }
 
 .reasons-indicators_customers p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   margin-top: 5px;
 }
@@ -624,13 +625,13 @@ input::placeholder {
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.15);
   border-radius: 5px;
   background-color: #414141;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #fff;
 }
 
 .reasons-indicators_businesses p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   margin-top: 5px;
 }
@@ -641,7 +642,7 @@ input::placeholder {
 }
 
 .reasons-title h4 {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 48px;
   position: relative;
   margin-bottom: 45px;
@@ -658,7 +659,7 @@ input::placeholder {
 }
 
 .reasons-title p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   line-height: 32px;
 }
@@ -679,7 +680,7 @@ input::placeholder {
 }
 
 .benefit-title h3 {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 48px;
   color: #fff;
 }
@@ -690,7 +691,7 @@ input::placeholder {
 }
 
 .under-bed p, .in-bank p, .in-lorem p {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 64px;
   font-weight: 700;
 }
@@ -742,7 +743,7 @@ input::placeholder {
   display: block;
   width: 158px;
   text-align: center;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   color: #fff;
@@ -751,7 +752,7 @@ input::placeholder {
 .check-line p {
   margin-top: 140px;
   margin-bottom: 113px;
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   line-height: 1.4;
   color: #fff;
@@ -775,7 +776,7 @@ input::placeholder {
 
 .calculator-title h3 {
   position: relative;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 48px;
   color: #4a4a4a;
   padding-left: 60px;
@@ -797,14 +798,14 @@ input::placeholder {
 }
 
 .calculator-result p {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 32px;
   color: #4a4a4a;
   margin-bottom: 15px;
 }
 
 .calculator-result span {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 48px;
   font-weight: 700;
   color: #F6BD21;
@@ -817,7 +818,7 @@ input::placeholder {
   border-radius: 29px;
   background-color: #F6BD21;
   text-align: center;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #fff;
 }
@@ -877,7 +878,7 @@ input::placeholder {
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
   white-space: nowrap;
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   color: #9b9b9b;
   font-size: 16px;
 }
@@ -894,7 +895,7 @@ input::placeholder {
 .calculator-form__invest label {
   margin-right: 40px;
   max-width: 99px;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 28px;
   color: #4a4a4a;
 }
@@ -907,7 +908,7 @@ input::placeholder {
   box-shadow: 0 -1px 8px rgba(0, 0, 0, 0.1), 0 2px 8px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   border: 1px solid #F6BD21;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   color: #F6BD21;
 }
@@ -929,7 +930,7 @@ input::placeholder {
   display: block;
   float: left;
   max-width: 99px;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 28px;
   color: #4a4a4a;
 }
@@ -942,7 +943,7 @@ input::placeholder {
   box-shadow: 0 -1px 8px rgba(0, 0, 0, 0.1), 0 2px 8px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   border: 1px solid #F6BD21;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   color: #F6BD21;
 }
@@ -984,7 +985,7 @@ input::placeholder {
   text-align: center;
   border-radius: 5px;
   border: 1px solid #F6BD21;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   color: #F6BD21;
 }
@@ -1024,7 +1025,7 @@ input::placeholder {
 }
 
 .roadmap-title h4 {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 48px;
   font-weight: 700;
   letter-spacing: 2px;
@@ -1037,21 +1038,21 @@ input::placeholder {
 }
 
 .roadmap-month h6 {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   color: #fff;
   margin-bottom: 28px;
 }
 
 .roadmap-month p {
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 18px;
   color: rgba(255, 255, 255, 0.5);
   line-height: 1.4;
 }
 
 .roadmap-month b {
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
   font-weight: 700;
 }
@@ -1190,7 +1191,7 @@ input::placeholder {
 .forget-download_description {
   margin-top: 60px;
   padding-left: 45px;
-  font-family: "Avenir-Medium";
+  font-family: 'El Messiri', sans-serif;
 }
 .forget-download_description h4 {
   font-size: 48px;
@@ -1205,7 +1206,7 @@ input::placeholder {
   max-width: 553px;
   margin-bottom: 34px;
   /*color: #fff;*/
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 20px;
   line-height: 1.4;
 }
@@ -1231,7 +1232,7 @@ footer .footer-nav {
 }
 footer .footer-nav li {
   display: inline-block;
-  font-family: "Avenir-Regular";
+  font-family: 'El Messiri', sans-serif;
   font-size: 24px;
 
 }
