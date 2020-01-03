@@ -19,8 +19,8 @@ img{
 }
 
 header {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin-bottom: 60px;
 }
 
@@ -90,11 +90,13 @@ nav a {
 .ico-start {
   /*max-width: 269px;*/
   /*float: left;*/
+  margin-bottom: 55px;
   text-align: end;
   font-family: 'El Messiri', sans-serif;
 }
 
 .ico-start p {
+  margin: 0;
   font-size: 32px;
   color: #fff;
 }
@@ -163,6 +165,7 @@ nav a {
   font-weight: 500;
   font-size: 16px;
   line-height: 31px;
+  margin-bottom: 55px;
   color: #FDFDFD;
 }
 
@@ -171,18 +174,18 @@ nav a {
   font-style: normal;
   font-weight: 500;
   font-size: 32px;
-  line-height: 75px;
+  line-height: 30px;
   color: #F7C528;
 }
 
 .download-app p {
   font-family: 'El Messiri', sans-serif;
-  font-size: 24px;
-  margin-bottom: 38px;
+  font-size: 16px;
+  margin-bottom: 7px;
 }
 
 .download-app span {
-  font-size: 32px;
+  font-size: 16px;
 }
 
 .download-app a {
@@ -200,7 +203,7 @@ nav a {
 .problem {
   margin-top: 30px;
   width: 100%;
-  padding: 80px 70px 65px;
+  padding: 70px 60px 0;
   border-radius: 10px;
   background-color: #fff;
   -webkit-box-shadow: 0 2px 30px rgba(0, 0, 0, 0.25);
@@ -237,7 +240,7 @@ nav a {
 }
 
 .problem-video {
-  padding-bottom: 60px;
+  padding-bottom: 40px;
 }
 
 .problem-deskription {
@@ -270,7 +273,7 @@ nav a {
 .solution {
   margin-top: 100px;
   width: 100%;
-  padding: 80px 80px 10px;
+  padding: 35px 80px 0;
   border-radius: 10px;
   background-color: #fff;
   -webkit-box-shadow: 0 2px 30px rgba(0, 0, 0, 0.25);
@@ -283,7 +286,6 @@ nav a {
 
 .solution-image img {
   padding-top: 68px;
-  max-width: none;
 }
 
 .solution-title h3,
@@ -299,7 +301,6 @@ nav a {
 
 .solution-title h5 {
   color: #F7C528;
-  padding-bottom: 30px;
 }
 
 .solution-title > div {
@@ -322,9 +323,8 @@ nav a {
 .gradient-wrapper_sign {
   width: 100%;
   background: rgba(45, 45, 45, 1) url("../../img/img2.png") no-repeat right 55%;
-
   margin-top: 110px;
-  padding: 80px 0;
+  padding: 40px 0;
 }
 
 input::-webkit-input-placeholder {
@@ -367,7 +367,7 @@ input::placeholder {
   z-index: 1;
   width: 503px;
   margin-left: auto;
-  padding: 50px 30px 40px;
+  padding: 25px 25px 25px;
   border-radius: 16px;
   -webkit-box-shadow: 0 2px 25px rgba(0, 0, 0, 0.15);
   box-shadow: 0 2px 25px rgba(0, 0, 0, 0.15);
@@ -380,13 +380,13 @@ input::placeholder {
   font-size: 24px;
   text-transform: uppercase;
   color: #fff;
-  margin-bottom: 32px;
+  margin-bottom: 16px
 }
 
 .create-account label {
   display: block;
   padding-right: 20px;
-  margin-bottom: 17px;
+  margin-bottom: 4px;
   font-family: 'El Messiri', sans-serif;
   font-size: 16px;
   text-transform: uppercase;
@@ -394,7 +394,7 @@ input::placeholder {
 }
 
 .create-account label:nth-of-type(n+2) {
-  margin-top: 32px;
+  margin-top: 16px;
 }
 
 .create-account input {
@@ -418,7 +418,7 @@ input::placeholder {
   border: none;
   background: -o-linear-gradient(250.74deg, #FDC426 0%, #DBA610 100%), #222222;
   background: linear-gradient(199.26deg, #FDC426 0%, #DBA610 100%), #222222;
-  margin: 66px auto 0;
+  margin: 32px auto 0;
   padding: 0;
   font-size: 24px;
   color: #000000;
@@ -1205,7 +1205,7 @@ input::placeholder {
 
 .forget-download {
   width: 100%;
-  margin-top: -260px;
+  margin-top: -190px;
   -webkit-box-shadow: 0 2px 30px rgba(0, 0, 0, 0.25);
   box-shadow: 0 2px 30px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
@@ -1221,9 +1221,10 @@ input::placeholder {
 }
 
 .forget-download_description {
-  margin-top: 120px;
+  margin-top: 100px;
   padding-left: 45px;
   font-family: 'El Messiri', sans-serif;
+  text-align: end;
 }
 .forget-download_description h4 {
   font-size: 32px;
@@ -1252,8 +1253,8 @@ input::placeholder {
 }
 .footer {
   background: #1f1f1f;
-  padding-top: 40px;
-  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 footer {
   margin-top: 100px;

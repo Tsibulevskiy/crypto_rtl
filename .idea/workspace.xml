@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f2bf48e-6a33-4b6c-b671-cb667b8d5dc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../shams/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shams/.idea/shams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shams/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sass/main-rtl.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/sass/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sass/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sass/media-rtl.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/sass/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sass/media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/acquiring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banking.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/board.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/circle-mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/circle-new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/consulting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/exchange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/humans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/inst.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/palm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/phones.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/purse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/transfer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/traversed-active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/traversed.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pick2me-vuejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../pick2me-vuejs" afterDir="false" />
     </list>
@@ -40,41 +24,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="632" column="40" selection-start-line="632" selection-start-column="40" selection-end-line="632" selection-end-column="40" />
+            <state relative-caret-position="559">
+              <caret line="202" column="22" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sass/media.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-              <folding>
-                <element signature="e#7850#11650#0" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sass/media.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="298" column="29" selection-start-line="298" selection-start-column="29" selection-end-line="298" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sass/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="1078" column="20" selection-start-line="1078" selection-start-column="20" selection-end-line="1078" selection-end-column="20" />
+            <state relative-caret-position="11670">
+              <caret line="389" column="40" selection-start-line="389" selection-start-column="40" selection-end-line="389" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -112,15 +95,14 @@
         <option value="$PROJECT_DIR$/static/css/sass/media.css" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/css/sass/main.css" />
-        <option value="$PROJECT_DIR$/css/sass/media.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/sass/main.css" />
+        <option value="$PROJECT_DIR$/css/sass/media.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="785" />
-    <option name="y" value="5" />
+    <option name="x" value="940" />
     <option name="width" value="1105" />
     <option name="height" value="1040" />
   </component>
@@ -130,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,7 +135,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,6 +143,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -202,18 +185,29 @@
       <workItem from="1574327197703" duration="28000" />
       <workItem from="1574327384094" duration="431000" />
       <workItem from="1574333328217" duration="7394000" />
-      <workItem from="1574344749419" duration="8164000" />
+      <workItem from="1574344749419" duration="10575000" />
+      <workItem from="1574542536351" duration="118000" />
+      <workItem from="1574805970686" duration="9000" />
+      <workItem from="1574807203971" duration="4063000" />
+      <workItem from="1574869763273" duration="195000" />
+      <workItem from="1575024087141" duration="680000" />
+      <workItem from="1576591707880" duration="5399000" />
+      <workItem from="1576657390115" duration="1271000" />
+      <workItem from="1576831714699" duration="107000" />
+      <workItem from="1577182345931" duration="602000" />
+      <workItem from="1577196317750" duration="552000" />
+      <workItem from="1577394558935" duration="505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58364000" />
+    <option name="totallyTimeSpent" value="74276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.152349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09798658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -254,51 +248,33 @@
     <entry file="file://$PROJECT_DIR$/img/6.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/acquiring.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/banking.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/acquiring.png" />
+    <entry file="file://$PROJECT_DIR$/img/banking.png" />
     <entry file="file://$PROJECT_DIR$/img/7.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/board.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/board.png" />
     <entry file="file://$PROJECT_DIR$/img/bg_sun.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/chart.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/chart.png" />
     <entry file="file://$PROJECT_DIR$/img/button_appstore_apple.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/circle.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/circle-new.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/circle-new.png" />
     <entry file="file://$PROJECT_DIR$/img/circle-mob.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/consulting.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/exchange.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/fb.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/consulting.png" />
+    <entry file="file://$PROJECT_DIR$/img/exchange.png" />
+    <entry file="file://$PROJECT_DIR$/img/fb.png" />
     <entry file="file://$PROJECT_DIR$/img/close.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/humans.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/humans.png" />
     <entry file="file://$PROJECT_DIR$/img/google-play.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -320,9 +296,7 @@
     <entry file="file://$PROJECT_DIR$/img/img3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/inst.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/inst.png" />
     <entry file="file://$PROJECT_DIR$/img/img-header.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -341,33 +315,19 @@
     <entry file="file://$PROJECT_DIR$/img/oval1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/palm.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/phone.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/phones.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/palm.png" />
+    <entry file="file://$PROJECT_DIR$/img/phone.png" />
+    <entry file="file://$PROJECT_DIR$/img/phones.png" />
     <entry file="file://$PROJECT_DIR$/img/Oval-mob.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/purse.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/purse.png" />
     <entry file="file://$PROJECT_DIR$/img/prev-arrow.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/transfer.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/traversed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/traversed-active.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/transfer.png" />
+    <entry file="file://$PROJECT_DIR$/img/traversed.png" />
+    <entry file="file://$PROJECT_DIR$/img/traversed-active.png" />
     <entry file="file://$PROJECT_DIR$/img/right.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -377,39 +337,38 @@
     <entry file="file://$PROJECT_DIR$/img/traversed-nonactive.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/media.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-          <folding>
-            <element signature="e#7850#11650#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="632" column="40" selection-start-line="632" selection-start-column="40" selection-end-line="632" selection-end-column="40" />
+        <state relative-caret-position="559">
+          <caret line="202" column="22" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sass/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="1078" column="20" selection-start-line="1078" selection-start-column="20" selection-end-line="1078" selection-end-column="20" />
+        <state relative-caret-position="11670">
+          <caret line="389" column="40" selection-start-line="389" selection-start-column="40" selection-end-line="389" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="298" column="29" selection-start-line="298" selection-start-column="29" selection-end-line="298" selection-end-column="29" />
         </state>
       </provider>
     </entry>
