@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f2bf48e-6a33-4b6c-b671-cb667b8d5dc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/F&amp;Q_Areabic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/privacyPolicy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/term_of_use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sass/email.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/picture1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/picture_shams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goldCoach/.idea/goldCoach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goldCoach/css/custom-reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goldCoach/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goldCoach/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goldCoach/img/pays-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goldCoach/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goldCoach/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../shams/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../shams/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../shams/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../shams/.idea/shams.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../shams/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto_rtl.1.3.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_rtl.1.4.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/sass/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sass/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pick2me-vuejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../pick2me-vuejs" afterDir="false" />
@@ -27,17 +38,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="206">
+              <caret line="106" column="24" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -55,6 +59,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -90,18 +95,21 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/css/sass/main.css" />
         <option value="$PROJECT_DIR$/css/sass/media.css" />
-        <option value="$PROJECT_DIR$/css/sass/main.css" />
         <option value="$PROJECT_DIR$/term_of_use.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/privacyPolicy.html" />
         <option value="$PROJECT_DIR$/F&amp;Q_Areabic.html" />
+        <option value="$PROJECT_DIR$/email.html" />
+        <option value="$PROJECT_DIR$/css/sass/email.css" />
+        <option value="$PROJECT_DIR$/css/sass/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="940" />
-    <option name="width" value="1105" />
-    <option name="height" value="1040" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -133,6 +141,17 @@
               <item name="crypto_rtl" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="crypto_rtl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_rtl" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_rtl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_rtl" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="slick" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -144,6 +163,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -202,16 +222,32 @@
       <workItem from="1577394558935" duration="505000" />
       <workItem from="1578327041076" duration="9391000" />
       <workItem from="1578473071767" duration="607000" />
+      <workItem from="1579099914493" duration="3341000" />
+      <workItem from="1579103315554" duration="599000" />
+      <workItem from="1579174485313" duration="69000" />
+      <workItem from="1579508699437" duration="854000" />
+      <workItem from="1579509582177" duration="674000" />
+      <workItem from="1579595104095" duration="23000" />
+      <workItem from="1579602736962" duration="841000" />
+      <workItem from="1579607347740" duration="1049000" />
+      <workItem from="1579698015943" duration="2507000" />
+      <workItem from="1580137860635" duration="1834000" />
+      <workItem from="1580140898589" duration="1224000" />
+      <workItem from="1580170444153" duration="236000" />
+      <workItem from="1580202147074" duration="15000" />
+      <workItem from="1580202358683" duration="66000" />
+      <workItem from="1580202523370" duration="399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84274000" />
+    <option name="totallyTimeSpent" value="98005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10067114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12080537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,15 +273,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/acquiring.png" />
-    <entry file="file://$PROJECT_DIR$/img/banking.png" />
-    <entry file="file://$PROJECT_DIR$/img/7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/board.png" />
     <entry file="file://$PROJECT_DIR$/img/bg_sun.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -329,25 +356,6 @@
     <entry file="file://$PROJECT_DIR$/img/traversed-nonactive.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom-reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1350" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="1337" column="21" selection-start-line="1337" selection-start-column="21" selection-end-line="1337" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/media.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3484">
-          <caret line="506" column="13" selection-start-line="506" selection-start-column="13" selection-end-line="506" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/privacyPolicy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -379,12 +387,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/term_of_use.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
+        <state relative-caret-position="120">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
@@ -395,19 +400,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/email.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15180">
+          <caret line="506" column="13" selection-start-line="506" selection-start-column="13" selection-end-line="506" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom-reset.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/wnumb-1.1.0/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/wnumb-1.1.0/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/slick/slick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5850">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2651">
+          <caret line="38" column="1" lean-forward="true" selection-end-line="153" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        <state relative-caret-position="206">
+          <caret line="106" column="24" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />

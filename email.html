@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="../../../../favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=El+Messiri:400,500,600,700&display=swap&subset=arabic"
+        rel="stylesheet">
+  <title>CryptoCurrency</title>
+  <!-- Reset browser styles -->
+  <link href="./css/custom-reset.css" rel="stylesheet">
+  <!-- Bootstrap core CSS -->
+  <link href="./css/bootstrap-grid.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="./css/bootstrap.min.css">
+  <!-- Custom styles for this template -->
+  <link href="./css/sass/email.css" rel="stylesheet">
+  <link href="./css/sass/media.css" rel="stylesheet">
+  <!-- Animate -->
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
+  <!-- Slider -->
+  <link rel="stylesheet" href="./libs/noUiSlider-master/nouislider.min.css">
+  <link href="./libs/slick/slick.css" rel="stylesheet">
+  <link href="./libs/slick/slick-theme.css" rel="stylesheet">
+
+</head>
+<body>
+  <section class="section-email h-100">
+    <div class="container h-100">
+      <div class="row justify-content-center align-items-center">
+        <div class="col-md-7">
+          <div class="card" >
+            <div class="card-header">
+              <h5 class="card-title d-flex justify-content-center">
+                <a href="index.html"><img src="./img/logo.png" alt=""></a>
+              </h5>
+            </div>
+            <div class="card-body">
+              <p class="card-text">You requested a password reset on the site. To change the password, please click on the button below. If you did not request a password recovery, simply delete this email.</p>
+              <button href="#" class="btn-yellow">Reset password</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<!-- libreris -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
+        integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
+<script src="./js/bootstrap.min.js"></script>
+<!-- page scripts -->
+<script src="./js/main.js"></script>
+<!-- Animate -->
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init({
+    delay: 50,
+    duration: 500
+  });
+</script>
+<!-- Slider -->
+<script src="./libs/wnumb-1.1.0/wNumb.js"></script>
+<script src="./libs/noUiSlider-master/nouislider.min.js"></script>
+<script src="./libs/slick/slick.js"></script>
+<script>
+  $(function () {
+    $("#tabs").tabs({active: 2});
+  });
+
+</script>
+<script>
+  $('.directions-block').slick({
+    dots: true,
+    infinite: false,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    prevArrow: '<img src="./img/prev-arrow.png" >',
+    nextArrow: '<img src="./img/next-arrow.png" >',
+    responsive: [
+      {
+        breakpoint: 991,
+        settings: {
+          prevArrow: '<img src="./img/left.png" >',
+          nextArrow: '<img src="./img/right.png" >',
+        }
+      }
+    ]
+  });
+  $('.directions-block_mob').slick({
+    dots: true,
+    infinite: false,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    prevArrow: '<img src="./img/left.png" >',
+    nextArrow: '<img src="./img/right.png" >',
+    responsive: [
+      {
+        breakpoint: 767,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+        }
+      }
+    ]
+  });
+  $('.problem-direction').slick({
+    dots: true,
+    infinite: false,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    prevArrow: '<img src="./img/left.png" >',
+    nextArrow: '<img src="./img/right.png" >'
+  });
+</script>
+</body>
+</html>
