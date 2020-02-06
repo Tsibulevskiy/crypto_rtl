@@ -2,13 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f2bf48e-6a33-4b6c-b671-cb667b8d5dc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/sass/email.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/men.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/picture1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/picture_shams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group12.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group13.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group14.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group16.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group17.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group21.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group22.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group23.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group24.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group25.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group26.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group27.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group28.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group29.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group30.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group31.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group32.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group33.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group34.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group35.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group36.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/Group9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/tick1.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../goldCoach/.idea/goldCoach.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../goldCoach/css/custom-reset.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../goldCoach/css/main.css" afterDir="false" />
@@ -22,9 +45,12 @@
       <change afterPath="$PROJECT_DIR$/../../shams/.idea/shams.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../shams/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto_rtl.1.4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F&amp;Q_Areabic.html" beforeDir="false" afterPath="$PROJECT_DIR$/F&amp;Q_Areabic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_rtl1.9.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/sass/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sass/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacyPolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacyPolicy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/term_of_use.html" beforeDir="false" afterPath="$PROJECT_DIR$/term_of_use.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pick2me-vuejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../pick2me-vuejs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,20 +60,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/term_of_use.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="106" column="24" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="215" column="23" lean-forward="true" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="23" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -71,12 +94,20 @@
       <find>font-family: &quot;Avenir-Regular&quot;;</find>
       <find>font-size: 18px;</find>
       <find>font-size: 38px;</find>
+      <find>&lt;div class=&quot;col-md-10 text-center&quot;&gt;</find>
+      <find>&lt;div class=&quot;col-md-10 &quot;&gt;</find>
+      <find>&lt;div class=&quot;col-md-10</find>
+      <find>&lt;div class=&quot;col-md-10&quot;&gt;</find>
+      <find>&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>../static/</replace>
       <replace>font-family: 'El Messiri', sans-serif;</replace>
       <replace>font-size: 16px;</replace>
       <replace>font-size: 32px;</replace>
+      <replace>&lt;div class=&quot;col-md-10 text-center&quot;&gt;</replace>
+      <replace>&lt;div class=&quot;col-md-10&quot;&gt;</replace>
+      <replace>&lt;div class=&quot;col-md-10 border-shadow&quot;&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -95,13 +126,13 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/css/sass/main.css" />
         <option value="$PROJECT_DIR$/css/sass/media.css" />
-        <option value="$PROJECT_DIR$/term_of_use.html" />
-        <option value="$PROJECT_DIR$/privacyPolicy.html" />
-        <option value="$PROJECT_DIR$/F&amp;Q_Areabic.html" />
         <option value="$PROJECT_DIR$/email.html" />
         <option value="$PROJECT_DIR$/css/sass/email.css" />
+        <option value="$PROJECT_DIR$/F&amp;Q_Areabic.html" />
         <option value="$PROJECT_DIR$/css/sass/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/privacyPolicy.html" />
+        <option value="$PROJECT_DIR$/term_of_use.html" />
       </list>
     </option>
   </component>
@@ -136,22 +167,6 @@
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="sass" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="crypto_rtl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crypto_rtl" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crypto_rtl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crypto_rtl" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crypto_rtl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crypto_rtl" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="slick" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -162,7 +177,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/svg" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -170,11 +185,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\landing\crypto_rtl\img\svg" />
       <recent name="D:\work\landing\crypto_rtl\img" />
       <recent name="D:\work\landing\crypto_rtl\static\img" />
       <recent name="D:\work\landing\crypto_rtl\static\img\svg" />
       <recent name="D:\work\landing\crypto_rtl\static\css\sass" />
-      <recent name="D:\work\landing\crypto_rtl" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\work\landing\crypto_rtl\static\css" />
@@ -237,17 +252,26 @@
       <workItem from="1580202147074" duration="15000" />
       <workItem from="1580202358683" duration="66000" />
       <workItem from="1580202523370" duration="399000" />
+      <workItem from="1580381134492" duration="12539000" />
+      <workItem from="1580395013147" duration="23000" />
+      <workItem from="1580395431493" duration="14000" />
+      <workItem from="1580558726096" duration="369000" />
+      <workItem from="1580716635576" duration="1626000" />
+      <workItem from="1580741309027" duration="8306000" />
+      <workItem from="1580764268234" duration="718000" />
+      <workItem from="1580805272398" duration="5346000" />
+      <workItem from="1580812475403" duration="1411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98005000" />
+    <option name="totallyTimeSpent" value="128357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12080537" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13355705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,10 +283,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Get Gist" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -272,18 +296,47 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/bg_sun.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/chart.png" />
-    <entry file="file://$PROJECT_DIR$/img/button_appstore_apple.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/circle.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/circle-new.png" />
     <entry file="file://$PROJECT_DIR$/img/circle-mob.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -356,46 +409,11 @@
     <entry file="file://$PROJECT_DIR$/img/traversed-nonactive.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/privacyPolicy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="71" column="79" selection-start-line="71" selection-start-column="79" selection-end-line="71" selection-end-column="79" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/F&amp;Q_Areabic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1500">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/term_of_use.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -423,13 +441,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom-reset.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sass/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libs/wnumb-1.1.0/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -460,18 +471,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/svg/Group8.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/svg/Group7.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/svg/Group23.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/svg/Group28.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/svg/Group36.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/F&amp;Q_Areabic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="233" column="9" selection-start-line="233" selection-start-column="9" selection-end-line="233" selection-end-column="9" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="106" column="24" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
+        <state relative-caret-position="562">
+          <caret line="575" column="2" selection-start-line="575" selection-start-column="2" selection-end-line="604" selection-end-column="9" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/privacyPolicy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="361" column="9" selection-start-line="361" selection-start-column="9" selection-end-line="361" selection-end-column="9" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sass/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="1438" column="21" selection-start-line="1438" selection-start-column="21" selection-end-line="1438" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/term_of_use.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="215" column="23" lean-forward="true" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="23" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
